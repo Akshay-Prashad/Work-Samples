@@ -1,2 +1,2 @@
 # Work-Samples
-### projects to showcase my practical skills
+### Projects to showcase my practical skills
